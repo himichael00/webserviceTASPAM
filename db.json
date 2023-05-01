@@ -1,16 +1,34 @@
 {
-    "Location": [
-      {
-        "namatempat": "Puskesmas Sidorejo",
-        "alamat": "Jl. Diponegoro No.100, Sidorejo Lor, Kec. Sidorejo, Kota Salatiga, Jawa Tengah 50714"
-      },
-      {
-        "namatempat": "Puskesmas Kalicacing",
-        "alamat": "Jl. Brigjen Sudiarto No.49, Kalicacing, Kec. Sidomukti, Kota Salatiga, Jawa Tengah 50724"
-      },
-      {
-        "namatempat": "Puskesmas Mangunsari",
-        "alamat": "Jl. Bangau No.16, Mangunsari, Kec. Sidomukti, Kota Salatiga, Jawa Tengah 50721"
-      }
-    ]
-  }
+  "Location": [
+    {
+      "namatempat": "Puskesmas Sidorejo",
+      "alamat": "Jl. Diponegoro No.100, Sidorejo Lor, Kec. Sidorejo, Kota Salatiga, Jawa Tengah 50714",
+      "telepon": "0298322828",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipNnbwQFDSpindMkRMMCK_vDnE6-ZI87tQ6e9HAr=s680-w680-h510"
+    },
+    {
+      "namatempat": "Puskesmas Kalicacing",
+      "alamat": "Jl. Brigjen Sudiarto No.49, Kalicacing, Kec. Sidomukti, Kota Salatiga, Jawa Tengah 50724",
+      "telepon": "0298322803",
+      "image": "https://lh6.googleusercontent.com/qjo96ecsqjTkLJboX8OHyO10oZ_oAdm1LLncdvn4rETIAWKPx4X54763WzEHjcxS=w408-h306-k-no"
+    },
+    {
+      "namatempat": "Puskesmas Mangunsari",
+      "alamat": "Jl. Bangau No.16, Mangunsari, Kec. Sidomukti, Kota Salatiga, Jawa Tengah 50721",
+      "telepon": "0298321032",
+      "image": "https://lh5.googleusercontent.com/p/AF1QipNh2iY_p-XbCZNbFlq6OeyBUqx0B_7X3seqw1gg=w426-h240-k-no"
+    },
+    {
+      "namatempat": "Puskesmas Cebongan",
+      "alamat": "Jl. Soekarno Hatta, Tingkir Tengah, Kec. Tingkir, Kota Salatiga, Jawa Tengah 50745",
+      "telepon": "0298313047",
+      "image": "https://lh5.googleusercontent.com/p/AF1QipNHPyuNj18Jqul5Utb8PFAxyfeVPCXVuozk-05J=w426-h240-k-no"
+    },
+    {
+      "namatempat": "Puskesmas Ringinawe",
+      "alamat": "Ledok, Argomulyo, Salatiga City, Central Java 50732",
+      "telepon": "0298321032",
+      "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=872Smbvom0moictzOykquA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=304.57007&pitch=0&thumbfov=100"
+    }
+  ]
+}
