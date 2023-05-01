@@ -1,6 +1,8 @@
-[
-  {
-    "namatempat": "Puskesmas Sidorejo",
-    "alamat": "Jl. Diponegoro No.100, Sidorejo Lor, Kec. Sidorejo, Kota Salatiga, Jawa Tengah 50714"
+{
+    "Location": [
+      {
+        "namatempat": "Puskesmas Sidorejo",
+        "alamat": "Jl. Diponegoro No.100, Sidorejo Lor, Kec. Sidorejo, Kota Salatiga, Jawa Tengah 50714"
+      }
+    ]
   }
-]
